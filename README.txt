@@ -19,9 +19,9 @@ search in google - Daring Fireball Syntax
  
 - [] (http://upload.wikimedia.org/wikipedia/commons/4/4e/20000_title_0a.jpg)
 
-•	Wikipedia entry
+-	Wikipedia entry
 
-Excerpt
+##Excerpt##
 
 Part One
 Chapter I: A Shifting Reef
